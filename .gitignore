@@ -1,0 +1,9 @@
+.idea
+.git
+Material_Apoio/
+node_modules
+coverage
+venv
+__pycache__
+.pytest_cache
+.sqlite3
